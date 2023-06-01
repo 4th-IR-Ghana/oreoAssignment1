@@ -18,6 +18,8 @@ The following assignment was designed to assess trainees' abilities in UiPath St
   
   
 * Screenshot 1.0
+![image](https://github.com/4th-IR-Ghana/oreoAssignment1/assets/45500876/3bf248a5-b78b-4c47-8db4-ee74957bf6b0)
+
   
 
 
