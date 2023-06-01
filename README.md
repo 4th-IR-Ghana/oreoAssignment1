@@ -16,7 +16,8 @@ The following assignment was designed to assess trainees' abilities in UiPath St
   4. Use an input dialog activity to capture the user's name and assign it to the "userName" variable. 
   5. Display a message box with a personalized greeting using the "userName" variable.
   
-  * Screenshot 1.0
+  
+* Screenshot 1.0
   
 
 
