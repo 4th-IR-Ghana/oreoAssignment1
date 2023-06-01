@@ -8,12 +8,12 @@ The following assignment was designed to assess trainees' abilities in UiPath St
 1. Tasks & Screenshots.
    * Task 1.0 (run greetUser.xaml in repo)
    * Task 1.1 (run calculateSequence.xaml in repo)
-   * Task 1.2 (run goodReadsWebScraping.xaml in repo
+   * Task 1.2 (run goodReadsWebScraping.xaml in repo)
 2. Process Overview.
+___
 
 
-
-* Task 1.0: Creating and Initializing Variables
+### Task 1.0: Creating and Initializing Variables
   1. Create an automation project in UiPath Studio. 
   2. Design a workflow that prompts the user to enter their name. 
   3. Create a variable called "userName" to store the user's name. 
@@ -26,7 +26,7 @@ The following assignment was designed to assess trainees' abilities in UiPath St
 
   
   
-* Task 1.1: Utilizing Variables in Automation Logic 
+### Task 1.1: Utilizing Variables in Automation Logic 
   1. Design a workflow that performs a simple mathematical calculation. 
   2. Create variables for two numbers, "num1" and "num2," and initialize them with any values. 
   3. Implement a calculation using these variables (e.g., addition, subtraction, multiplication, or division). 
@@ -38,7 +38,7 @@ The following assignment was designed to assess trainees' abilities in UiPath St
 
 
 
-* Task 1.2: Working with RPA Concepts 
+### Task 1.2: Working with RPA Concepts 
   1. Design a workflow that automates a repetitive task. 
   2. Identify a simple task that can be automated, such as renaming a file or copying data fromone application to another. 
   3. Implement the automation using appropriate UiPath activities and actions. 
@@ -46,3 +46,7 @@ The following assignment was designed to assess trainees' abilities in UiPath St
   5. Run the automation and verify its successful execution.
 
 *Screenshot 1.2:
+
+
+
+___
